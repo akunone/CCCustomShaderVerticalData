@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "ShaderTest",
+  "id": "d96969ae-c9fb-4fe4-9328-19ca6079de41",
+  "version": "2.4.3",
+  "isNew": false
+}
